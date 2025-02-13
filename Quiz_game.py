@@ -42,4 +42,3 @@ print("You got " + str((score/4) * 100) + "%.")
 
 
 
-
