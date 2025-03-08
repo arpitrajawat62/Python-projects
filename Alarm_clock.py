@@ -18,7 +18,7 @@ def alarm(seconds):
 
         print(f"{CLEAR_AND_RETURN}Alarm will sound in: {minutes_left:02d}:{seconds_left:02d}")
 
-    playsound(r"C:\Users\arpit\OneDrive\Desktop\new-1\perfect_alarm.mp3") 
+    playsound(r"perfect_alarm.mp3") 
 
 minutes = int(input("Enter the number of minutes: "))
 seconds = int(input("Enter the number of seconds: "))
